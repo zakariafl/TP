@@ -1,0 +1,2 @@
+net.falkou.ext.DaoImplV2
+net.f.alkou.MetierImpl
